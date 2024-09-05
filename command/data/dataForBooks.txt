@@ -1,0 +1,52 @@
+[
+    {
+        "author": "George Orwell",
+        "title": "1984",
+        "publisher": "Secker & Warburg"
+    },
+    {
+        "author": "Harper Lee",
+        "title": "To Kill a Mockingbird",
+        "publisher": "J.B. Lippincott & Co."
+    },
+    {
+        "author": "J.K. Rowling",
+        "title": "Harry Potter and the Philosopher's Stone",
+        "publisher": "Bloomsbury"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "title": "The Lord of the Rings",
+        "publisher": "George Allen & Unwin"
+    },
+    {
+        "author": "Jane Austen",
+        "title": "Pride and Prejudice",
+        "publisher": "T. Egerton"
+    },
+    {
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby",
+        "publisher": "Charles Scribner's Sons"
+    },
+    {
+        "author": "Mark Twain",
+        "title": "The Adventures of Huckleberry Finn",
+        "publisher": "Chatto & Windus"
+    },
+    {
+        "author": "Gabriel García Márquez",
+        "title": "One Hundred Years of Solitude",
+        "publisher": "Editorial Sudamericana"
+    },
+    {
+        "author": "Stephen King",
+        "title": "The Shining",
+        "publisher": "Doubleday"
+    },
+    {
+        "author": "Agatha Christie",
+        "title": "Murder on the Orient Express",
+        "publisher": "Collins Crime Club"
+    }
+]
